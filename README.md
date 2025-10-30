@@ -16,12 +16,4 @@ I am currently scaling up my portfolio of data science projects, with a focus on
 
 ---
 
-## Featured Projects
-
-<strong>[NFL Survivor Optimizer](https://github.com/jlattanzi4/nfl-survivor-optimizer)</strong> - Optimization algorithm for NFL survivor pool strategy using data-driven decision making and probability analysis to maximize long-term success rates.
-
-<strong>[ICU Readmission Prediction](https://github.com/jlattanzi4/icu-readmission-prediction)</strong> - Machine learning model to predict ICU readmissions, enabling healthcare providers to improve patient care outcomes and resource allocation.
-
----
-
 Want to connect or learn more? Visit my [portfolio](https://jlattanzi4.github.io) or reach out via [email](mailto:lattanzi.joseph@gmail.com).
