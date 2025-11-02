@@ -17,3 +17,4 @@ I am currently scaling up my portfolio of data science projects, with a focus on
 ---
 
 Want to connect or learn more? Visit my [portfolio](https://jlattanzi4.github.io) or reach out via [email](mailto:lattanzi.joseph@gmail.com).
+
