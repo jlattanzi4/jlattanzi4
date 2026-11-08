@@ -1,26 +1,19 @@
-# Who's Joe and What's He Building?
+# Joe Lattanzi
 
-Hi, I'm Joseph Lattanzi, a <strong>Data Scientist</strong> with a Master of Science in Applied Data Science from Bay Path University. I'm passionate about transforming complex data into actionable insights and building intelligent solutions to real-world problems. I specialize in statistical analysis, machine learning, and data visualization to drive informed decision-making across healthcare, sports analytics, and operational optimization.
+Product Data Scientist at [Klaviyo](https://www.klaviyo.com). On my own time I build decision tools: optimizers, models, and simulations that hold up when people actually use them.
 
-I am currently scaling up my portfolio of data science projects, with a focus on predictive modeling and optimization algorithms that deliver measurable impact.
+### Now
 
-<br>
+- Running the **[NFL Survivor Optimizer](https://jlattanzi4.github.io/nfl-survivor-optimizer/)** live through the 2026 season: 20,000 simulated seasons behind every pick, refreshed from market lines several times a day.
+- Building an AI project in the open. More soon.
 
-<strong>Tools</strong>: Python, R, and SQL to create 100% data-driven, innovative insights using diverse datasets. Expertise in libraries including Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, and statistical modeling frameworks.
+### Selected work
 
-<br>
+| | |
+|---|---|
+| **[NFL Survivor Optimizer](https://github.com/jlattanzi4/nfl-survivor-optimizer)** | Exact path search (Hungarian algorithm) plus Monte Carlo pool simulation on live betting markets, running in the browser. [Live →](https://jlattanzi4.github.io/nfl-survivor-optimizer/) |
+| **[SEC 10-K Risk Language](https://github.com/jlattanzi4/sec-risk-classifier)** | Across 79,000 risk disclosures, filings are 51% alike in meaning but only 21% alike in wording. [Report →](https://jlattanzi4.github.io/sec-risk-classifier/report.html) |
+| **[Box Box](https://github.com/jlattanzi4/box-box)** | Full-stack F1 fantasy game scored from live race data. Next.js, Prisma, Postgres. [Play →](https://box-box-rho.vercel.app) |
+| **[Who Comes Back?](https://github.com/jlattanzi4/icu-readmission-prediction)** | ICU readmission prediction on 545K MIMIC-IV admissions, with temporal validation and a fairness audit. [Talk →](https://youtu.be/Le1AnfCN2xI) |
 
-<strong>Core Competencies</strong>
-
-- Data Analysis & Visualization
-- Predictive Modeling & Machine Learning
-- Statistical Analysis & Hypothesis Testing
-- Optimization Algorithms
-- Healthcare Analytics
-- Sports Analytics & Decision Science
-
-<br>
-
----
-
-Want to connect or learn more? Visit my [portfolio](https://jlattanzi4.github.io) or reach out via [email](mailto:lattanzi.joseph@gmail.com).
+[jlattanzi4.github.io](https://jlattanzi4.github.io) · [LinkedIn](https://linkedin.com/in/joseph-lattanzi) · lattanzi.joseph@gmail.com
