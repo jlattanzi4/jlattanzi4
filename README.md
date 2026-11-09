@@ -1,26 +1,28 @@
-# Who's Joe and What's He Building?
+# Hi, I'm Joe 👋
 
-Hi, I'm Joseph Lattanzi, a <strong>Data Scientist</strong> with a Master of Science in Applied Data Science from Bay Path University. I'm passionate about transforming complex data into actionable insights and building intelligent solutions to real-world problems. I specialize in statistical analysis, machine learning, and data visualization to drive informed decision-making across healthcare, sports analytics, and operational optimization.
+I'm a data scientist at [Klaviyo](https://www.klaviyo.com). What I do there:
 
-I am currently scaling up my portfolio of data science projects, with a focus on predictive modeling and optimization algorithms that deliver measurable impact.
+- **Experimentation.** Designing and reading out A/B tests, from setup to the ship decision.
+- **Causal analysis.** For the questions an experiment can't answer.
+- **Data modeling.** Fact and dimension tables in dbt, because every good analysis starts with a good table.
+- **SQL first,** then Python and R.
 
-<br>
+Outside of work, this GitHub is where I build. I move fast and make the tools I wish existed, usually where sports, markets, and decisions meet, then ship them where people can use them.
 
-<strong>Tools</strong>: Python, R, and SQL to create 100% data-driven, innovative insights using diverse datasets. Expertise in libraries including Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, and statistical modeling frameworks.
+Off the clock, you'll find me with a coffee and a book, watching F1 (I love it enough that I built [a fantasy game](https://box-box-rho.vercel.app) for it), or buying a gadget I don't need. Usually in baggy pants.
 
-<br>
+### Now
 
-<strong>Core Competencies</strong>
+- Running the **[NFL Survivor Optimizer](https://jlattanzi4.github.io/nfl-survivor-optimizer/)** live through the 2026 season: 20,000 simulated seasons behind every pick, refreshed from market lines several times a day.
+- Building an AI project in the open. More soon.
 
-- Data Analysis & Visualization
-- Predictive Modeling & Machine Learning
-- Statistical Analysis & Hypothesis Testing
-- Optimization Algorithms
-- Healthcare Analytics
-- Sports Analytics & Decision Science
+### Selected work
 
-<br>
+| | |
+|---|---|
+| **[NFL Survivor Optimizer](https://github.com/jlattanzi4/nfl-survivor-optimizer)** | Exact path search (Hungarian algorithm) plus Monte Carlo pool simulation on live betting markets, running in the browser. [Live →](https://jlattanzi4.github.io/nfl-survivor-optimizer/) |
+| **[SEC 10-K Risk Language](https://github.com/jlattanzi4/sec-risk-classifier)** | Across 79,000 risk disclosures, filings are 51% alike in meaning but only 21% alike in wording. [Report →](https://jlattanzi4.github.io/sec-risk-classifier/report.html) |
+| **[Box Box](https://github.com/jlattanzi4/box-box)** | Full-stack F1 fantasy game scored from live race data. Next.js, Prisma, Postgres. [Play →](https://box-box-rho.vercel.app) |
+| **[Who Comes Back?](https://github.com/jlattanzi4/icu-readmission-prediction)** | ICU readmission prediction on 545K MIMIC-IV admissions, with temporal validation and a fairness audit. [Talk →](https://youtu.be/Le1AnfCN2xI) |
 
----
-
-Want to connect or learn more? Visit my [portfolio](https://jlattanzi4.github.io) or reach out via [email](mailto:lattanzi.joseph@gmail.com).
+[jlattanzi4.github.io](https://jlattanzi4.github.io) · [LinkedIn](https://linkedin.com/in/joseph-lattanzi) · lattanzi.joseph@gmail.com
