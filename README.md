@@ -21,7 +21,7 @@ Off the clock, you'll find me with a coffee and a book, watching F1 (I love it e
 | | |
 |---|---|
 | **[NFL Survivor Optimizer](https://github.com/jlattanzi4/nfl-survivor-optimizer)** | Exact path search (Hungarian algorithm) plus Monte Carlo pool simulation on live betting markets, running in the browser. [Live →](https://jlattanzi4.github.io/nfl-survivor-optimizer/) |
-| **[SEC 10-K Risk Language](https://github.com/jlattanzi4/sec-risk-classifier)** | Across 79,000 risk disclosures, filings are 51% alike in meaning but only 21% alike in wording. [Report →](https://jlattanzi4.github.io/sec-risk-classifier/report.html) |
+| **[SEC 10-K Risk Language](https://github.com/jlattanzi4/sec-risk-classifier)** | NLP over 15 years of 10-K risk disclosures (2006–2020): how much of what companies say about risk is boilerplate. Rework in progress. [Report →](https://jlattanzi4.github.io/sec-risk-classifier/report.html) |
 | **[Box Box](https://github.com/jlattanzi4/box-box)** | Full-stack F1 fantasy game scored from live race data. Next.js, Prisma, Postgres. [Play →](https://box-box-f1.vercel.app) |
 | **[Who Comes Back?](https://github.com/jlattanzi4/icu-readmission-prediction)** | ICU readmission prediction on 545K MIMIC-IV admissions, with temporal validation and a fairness audit. [Talk →](https://youtu.be/Le1AnfCN2xI) |
 
