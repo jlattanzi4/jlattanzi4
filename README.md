@@ -4,7 +4,7 @@ I'm a data scientist at [Klaviyo](https://www.klaviyo.com). What I do there:
 
 - **Experimentation.** Designing and reading out A/B tests, from setup to the ship decision.
 - **Causal analysis.** For the questions an experiment can't answer.
-- **Data modeling.** Fact and dimension tables in dbt, because every good analysis starts with a good table.
+- **Data modeling.** Fact and dimension tables in dbt, because every good analysis starts with good data.
 - **SQL first,** then Python and R.
 
 Outside of work, this GitHub is where I build. I move fast and make the tools I wish existed, usually where sports, markets, and decisions meet, then ship them where people can use them.
